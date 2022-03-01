@@ -1,0 +1,13 @@
+id: P339173BD
+initial_creation_type: input
+source_metadata:
+  title: 'MSV 1,16: Adhikaraṇavastu'
+  language: bo
+  volumes:
+    2008cd75650545378abc0756146aafcf:
+      title: Adhikaraṇavastu
+      base_file: Adhikaraṇavastu.txt
+      work_id: W46FA1A98
+  chapter_to_tile: {}
+created_at: '2022-03-01T22:21:23.938740'
+last_modified_at: '2022-03-01T22:21:23.938746'
